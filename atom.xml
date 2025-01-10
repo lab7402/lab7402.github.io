@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lab7402</title>
+  
+  
+  <link href="http://lab7402.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://lab7402.github.io/"/>
+  <updated>2025-01-10T10:41:16.570Z</updated>
+  <id>http://lab7402.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么是异构数据</title>
+    <link href="http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/"/>
+    <id>http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/</id>
+    <published>2025-01-10T10:34:59.974Z</published>
+    <updated>2025-01-10T10:41:16.570Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;在机器学习中，数据通常被分为两类：&quot;&gt;&lt;a href=&quot;#在机器学习中，数据通常被分为两类：&quot; class=&quot;headerlink&quot; title=&quot;在机器学习中，数据通常被分为两类：&quot;&gt;&lt;/a&gt;在机器学习中，数据通常被分为两类：&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;同</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lab7402.github.io/2025/01/10/hello-world/"/>
+    <id>http://lab7402.github.io/2025/01/10/hello-world/</id>
+    <published>2025-01-10T08:54:31.707Z</published>
+    <updated>2025-01-10T08:54:31.707Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
