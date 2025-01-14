@@ -6,17 +6,67 @@
   <link href="http://lab7402.github.io/atom.xml" rel="self"/>
   
   <link href="http://lab7402.github.io/"/>
-  <updated>2025-01-10T10:41:16.570Z</updated>
+  <updated>2025-01-14T06:16:04.680Z</updated>
   <id>http://lab7402.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简介</title>
+    <link href="http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/"/>
+    <id>http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/</id>
+    <published>2025-01-14T06:06:17.096Z</published>
+    <updated>2025-01-14T06:16:04.680Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;导师简介：&quot;&gt;&lt;a href=&quot;#导师简介：&quot; class=&quot;headerlink&quot; title=&quot;导师简介：&quot;&gt;&lt;/a&gt;导师简介：&lt;/h1&gt;&lt;h1 id=&quot;实验室简介：&quot;&gt;&lt;a href=&quot;#实验室简介：&quot; class=&quot;headerlink&quot; title=&quot;实</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>杨强-联邦学习</title>
+    <link href="http://lab7402.github.io/2025/01/14/Yang%20Q,%20Liu%20Y,%20Cheng%20Y,%20et%20al.%20Federated%20Machine%20Learning%20Concept%20and%20Applications,%202019,%2013(3)_%201-207.%20(1)/"/>
+    <id>http://lab7402.github.io/2025/01/14/Yang%20Q,%20Liu%20Y,%20Cheng%20Y,%20et%20al.%20Federated%20Machine%20Learning%20Concept%20and%20Applications,%202019,%2013(3)_%201-207.%20(1)/</id>
+    <published>2025-01-14T05:39:23.960Z</published>
+    <updated>2025-01-14T06:03:06.028Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Jpl5R&quot;&gt;&lt;font style=&quot;color:rgb(35, 31, 32);&quot;&gt;摘要&lt;/font&gt;&lt;/h2&gt;
+&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;如今人工智能仍然存在两个重大挑战：&lt;/font&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;数据以孤岛的形式存在。&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;数据隐私和安全问题。&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;针对上述挑战提出可能的解决方法：&lt;/font&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt; &lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;安全联邦学习（secure federated learning）&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;全面介绍了安全联邦学习的框架，包括&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;1）横向联邦学习（horizontal federated learning），&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;2）纵向联邦学习（vertical federated learning），&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;3）联邦迁移学习（federated transfer learning）&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;:::color1&lt;br&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;提供FL定义、架构、FL框架的应用，以及在这个学科领域已存在工作的全面调查研究；此外，提出&lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;基于联邦机制在各个组织者之间建立数据网络&lt;/font&gt;&lt;/strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt; 作为一种有效方案使知识在不被侵害用户隐私情况下共享。&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;本文提出了可能的解决方案：一个更全面的安全联邦学习框架。&lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;该框架包括Horizontal（水平or横向）联邦学习、Vertical（垂直or纵向）联邦学习，以及Transfer（迁移）联邦学习。&lt;/font&gt;&lt;/strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;本文提供了联邦学习框架的定义、架构和应用程序，以及建立了基于&lt;/font&gt;&lt;a href=&quot;https://zhida.zhihu.com/search?content_id=231820434&amp;content_type=Article&amp;match_order=1&amp;q=%E8%81%94%E9%82%A6%E6%9C%BA%E5%88%B6&amp;zhida_source=entity&quot;&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;联邦机制&lt;/font&gt;&lt;/a&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;的组织之间建立数据网络，作为一种可以在不损害用户隐私的情况下共享知识（知识指&lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;参数、梯度&lt;/font&gt;&lt;/strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;等）的有效解决方案。&lt;/font&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="联邦学习" scheme="http://lab7402.github.io/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>什么是异构数据</title>
     <link href="http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/"/>
     <id>http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/</id>
     <published>2025-01-10T10:34:59.974Z</published>
-    <updated>2025-01-10T10:41:16.570Z</updated>
+    <updated>2025-01-14T06:16:00.138Z</updated>
     
     
       
@@ -27,6 +77,10 @@
     
     
     
+    <category term="笔记" scheme="http://lab7402.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="机器学习" scheme="http://lab7402.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
