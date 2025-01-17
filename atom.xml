@@ -6,52 +6,94 @@
   <link href="http://lab7402.github.io/atom.xml" rel="self"/>
   
   <link href="http://lab7402.github.io/"/>
-  <updated>2025-01-16T08:17:38.666Z</updated>
+  <updated>2025-01-17T07:26:42.672Z</updated>
   <id>http://lab7402.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>简介</title>
-    <link href="http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/"/>
-    <id>http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/</id>
-    <published>2025-01-14T06:06:17.096Z</published>
-    <updated>2025-01-16T08:17:38.666Z</updated>
+    <title>A survey of multimodal federated learning:background, applications, and perspectives</title>
+    <link href="http://lab7402.github.io/2025/01/17/A%20survey%20of%20multimodal%20federated%20learning/"/>
+    <id>http://lab7402.github.io/2025/01/17/A%20survey%20of%20multimodal%20federated%20learning/</id>
+    <published>2025-01-17T07:20:58.711Z</published>
+    <updated>2025-01-17T07:26:42.672Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;导师简介：&quot;&gt;&lt;a href=&quot;#导师简介：&quot; class=&quot;headerlink&quot; title=&quot;导师简介：&quot;&gt;&lt;/a&gt;导师简介：&lt;/h1&gt;&lt;div class=&quot;article&quot; frag=&quot;窗口3&quot; portletmode=&quot;simpleArticleAttri&quot;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-				  &lt;div class=&quot;entry&quot;&gt;
-					&lt;div class=&quot;read&quot;&gt;&lt;div class=&quot;wp_articlecontent&quot;&gt;&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt; 	 	&lt;/style&gt;&lt;/p&gt;&lt;center&gt;&lt;table class=&quot;wp_editor_art_paste_table&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;60&quot;&gt;&lt;col width=&quot;118&quot;&gt;&lt;col width=&quot;71&quot;&gt;&lt;col width=&quot;109&quot;&gt;&lt;col width=&quot;123&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td height=&quot;41&quot;&gt;&lt;p&gt;姓名&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;赵晓丽&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;性别&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;女&lt;/p&gt;&lt;/td&gt;&lt;td rowspan=&quot;3&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://seee.sues.edu.cn/_upload/article/images/f3/47/91077bde4722ae731fc1b71e7854/964dff1d-4fa7-4881-a293-3e8f1996ac58.jpg&quot; align=&quot;BOTTOM&quot; width=&quot;111&quot; height=&quot;164&quot; border=&quot;0&quot;&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;职称&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;p&gt;教授&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;研究方向&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;p&gt;人工智能、联邦学习、多模态学习、视频&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;/&lt;/span&gt;&lt;/span&gt;图像处理&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;通讯地址&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;现代交通中心&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;7932&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;联系电话&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;13564034656&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;电子邮箱&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;evawhy@163.com&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;主讲课程&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;数字图像处理，深度学习及应用，信息论与编码&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;52&quot;&gt;&lt;p&gt;个人简介&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p style=&quot;text-indent:0.84cm;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;教授，博士，硕士研究生导师。上海市计算机学会人工智能专委会副主任，上海市图像图形学会理事、标准化委员会副主任，中国图象图形学学会多媒体专委会委员。曾于&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;color:#333333;font-size:16px;color:#333333;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;2014.9-2015.9&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;在美国加州大学圣巴巴拉分校计算机科学系&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;color:#333333;font-size:16px;color:#333333;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;4eyes&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;实验室做高级访问学者，导师为计算机视觉方面的著名专家&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;color:#333333;font-size:16px;color:#333333;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;Matthew Turk&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:0.74cm;widows:2;orphans:2;text-align:justify;&quot;&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;主持国家自然科学基金面上项目&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，主持上海市科委项目&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，作为课题执行人参与科技部重大项目&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项、国家重点研发计划&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，主持单批&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;25&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;万元科技成果转化&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，牵头制定团体标准&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，参与标准&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项。近&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;年以第一作者和通讯作者发表高水平学术论文&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;20&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;余篇，授权发明专利&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，出版专著&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;本。主持上海市一流本科课程&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;门，出版教材&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;本。所带学生获多项国家和上海市奖项。&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;近&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;5&lt;/span&gt;&lt;/span&gt;年主要科研项目&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p style=&quot;text-indent:-0.74cm;margin-left:0.74cm;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;1&lt;/span&gt;&lt;/span&gt;） 国家自然科学基金面上项目：元知识驱动的多模态联邦自监督学习算法研究&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2024.01-2027.12. &lt;/span&gt;&lt;/span&gt;主持&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-0.74cm;margin-left:0.74cm;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2&lt;/span&gt;&lt;/span&gt;） 科技创新&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2030-“&lt;/span&gt;&lt;/span&gt;新一代人工智能”重大项目：工业领域知识自动构建与推理决策技术及应用&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2020.11-2023.10. &lt;/span&gt;&lt;/span&gt;课题四执行人&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-0.74cm;margin-left:0.74cm;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;3&lt;/span&gt;&lt;/span&gt;） 上海市科技创新行动计划：面向智能制造的联邦学习应用研究及标准制定&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2022.08-2024.07. &lt;/span&gt;&lt;/span&gt;主持&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-0.37cm;margin-left:0.37cm;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;近&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;5&lt;/span&gt;&lt;/span&gt;年第一作者&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;/&lt;/span&gt;&lt;/span&gt;通讯作者主要&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;SCI/EI&lt;/span&gt;&lt;/span&gt;论文&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;ol class=&quot; list-paddingleft-2&quot;&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;, ZhengChen, Jenq-Neng Hwang, Xiwu Shang. AFLNet: Adversarial focal loss network for RGB-D salient object detection. Signal Prpcessing: Image Communication, 2021, 94:116224-116233.&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;&amp;nbsp;(SCI) &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;, Jenq-Neng Hwang, Zhijun Fang, Guozhong Wang. Gradient-based adaptive particle swarm optimizer with improved extremal optimization. Applied Intelligence&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span style=&quot;font-family:等线, serif;font-family:times new roman, serif;&quot;&gt;2018&lt;/span&gt;，&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;48(12):4646-4659. (&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;SCI&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;sup&gt;*&lt;/sup&gt;, Matthew Turk, Wei Li, Kuo-chin Lien, Guozhong Wang. A multilevel image thresholding segmentation algorithm based on 2D K-L divergence and modified particle swarm optimization. Applied Soft Computing, 2016, 48: 151-159. (&lt;strong&gt;SCI&lt;/strong&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;*&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;, Guozhong Wang, Jiaqi Zhang, Xiang Zhang. Scene Understanding Based on high-order potentials and Generative Adversarial Networks. Advances in Multimedia&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span style=&quot;font-family:等线, serif;font-family:times new roman, serif;&quot;&gt;2018:1-8. &amp;nbsp;(EI)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;Shengze Fu, Xiaoli Zhao&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;*&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&amp;nbsp;et al. Data heterogeneous federated learning algorithm for industrial entity extraction, Displays, 2023,08: 102504. (SCI)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&amp;nbsp;陈正，&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;strong&gt;赵晓丽&lt;/strong&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;基于跨模态特征融合的&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;RGB-D &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;显著性目标检测&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;计算机辅助设计与图形学学报，&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2021,10:1688-1697.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;（&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EI&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;）&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:left;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&amp;nbsp;尹明臣，&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;strong&gt;赵晓丽&lt;/strong&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;融合&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;3D DenseNet&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;的零样本视频分类&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;武汉大学学报（信息科学版）&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2021,10:1-12.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;EI&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;font-family:宋体;&quot;&gt;）&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;专著&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-left:0.64cm;&quot;&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;&amp;nbsp;赵晓丽&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;. &lt;/span&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;面向图像分割的智能算法&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;[M].&lt;/span&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;北京：中国铁道出版社有限公司，&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;2021,08.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;61&quot;&gt;&lt;p&gt;标准&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;智能制造联邦学习应用指南&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. T/SIGA 003-2024, &lt;/span&gt;&lt;/span&gt;主持&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;60&quot;&gt;&lt;p&gt;教学项目&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;a name=&quot;OLE_LINK3&quot;&gt;&lt;/a&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;5G+&lt;/span&gt;&lt;/span&gt;无人驾驶自主规划虚拟仿真实验&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;上海市一流课程，&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2023.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/center&gt;&lt;p style=&quot;margin-bottom:0cm;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-				  &lt;/div&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>杨强-联邦学习</title>
-    <link href="http://lab7402.github.io/2025/01/14/Yang%20Q,%20Liu%20Y,%20Cheng%20Y,%20et%20al.%20Federated%20Machine%20Learning%20Concept%20and%20Applications,%202019,%2013(3)_%201-207.%20(1)/"/>
-    <id>http://lab7402.github.io/2025/01/14/Yang%20Q,%20Liu%20Y,%20Cheng%20Y,%20et%20al.%20Federated%20Machine%20Learning%20Concept%20and%20Applications,%202019,%2013(3)_%201-207.%20(1)/</id>
-    <published>2025-01-14T05:39:23.960Z</published>
-    <updated>2025-01-14T10:12:34.434Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;Jpl5R&quot;&gt;&lt;font style=&quot;color:rgb(35, 31, 32);&quot;&gt;摘要&lt;/font&gt;&lt;/h2&gt;
-&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;如今人工智能仍然存在两个重大挑战：&lt;/font&gt;
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Title:&lt;/b&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;数据以孤岛的形式存在。&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;数据隐私和安全问题。&lt;/font&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;针对上述挑战提出可能的解决方法：&lt;/font&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt; &lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;安全联邦学习（secure federated learning）&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;全面介绍了安全联邦学习的框架，包括&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;1）横向联邦学习（horizontal federated learning），&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;2）纵向联邦学习（vertical federated learning），&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;3）联邦迁移学习（federated transfer learning）&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;:::color1&lt;br&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;提供FL定义、架构、FL框架的应用，以及在这个学科领域已存在工作的全面调查研究；此外，提出&lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt;基于联邦机制在各个组织者之间建立数据网络&lt;/font&gt;&lt;/strong&gt;&lt;font style=&quot;color:rgb(23, 35, 63);&quot;&gt; 作为一种有效方案使知识在不被侵害用户隐私情况下共享。&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;本文提出了可能的解决方案：一个更全面的安全联邦学习框架。&lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;该框架包括Horizontal（水平or横向）联邦学习、Vertical（垂直or纵向）联邦学习，以及Transfer（迁移）联邦学习。&lt;/font&gt;&lt;/strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;本文提供了联邦学习框架的定义、架构和应用程序，以及建立了基于&lt;/font&gt;&lt;a href=&quot;https://zhida.zhihu.com/search?content_id=231820434&amp;content_type=Article&amp;match_order=1&amp;q=%E8%81%94%E9%82%A6%E6%9C%BA%E5%88%B6&amp;zhida_source=entity&quot;&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;联邦机制&lt;/font&gt;&lt;/a&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;的组织之间建立数据网络，作为一种可以在不损害用户隐私的情况下共享知识（知识指&lt;/font&gt;&lt;strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;参数、梯度&lt;/font&gt;&lt;/strong&gt;&lt;font style=&quot;color:rgb(25, 27, 31);&quot;&gt;等）的有效解决方案。&lt;/font&gt;&lt;/p&gt;</summary>
+&lt;p&gt;&lt;value&gt; Hao Pan, Xiaoli Zhao*, Lipeng He. A survey of multimodal federated learning: background, applications, and perspectives, Multimedia Systems, 2024, 30: 222. (SCI 3 区) &lt;/value&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author(s):&lt;/b&gt;
+Pan, H (Pan, Hao); Zhao, XL (Zhao, Xiaoli); He, LP (He, Lipeng); Shi, YC (Shi, Yicong); Lin, XG (Lin, Xiaogang)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;b&gt;Source:&lt;/b&gt; 
+&lt;value&gt;MULTIMEDIA SYSTEMS&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Volume:&lt;/b&gt; 
+&lt;value&gt;30&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Issue:&lt;/b&gt; 
+&lt;value&gt;4&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Article Number:&lt;/b&gt; 
+&lt;value&gt;222&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;DOI:&lt;/b&gt; 
+&lt;value&gt;10.1007/s00530-024-01422-9&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Published Date:&lt;/b&gt; 
+&lt;value&gt;2024 AUG&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Abstract:&lt;/b&gt;
+Multimodal Federated Learning (MMFL) is a novel machine learning technique that enhances the capabilities of traditional Federated Learning (FL) to support collaborative training of local models using data available in various modalities. With the generation and storage of a vast amount of multimodal data from the internet, sensors, and mobile devices, as well as the rapid iteration of artificial intelligence models, the demand for multimodal models is growing rapidly. While FL has been widely studied in the past few years, most of the existing research was based in unimodal settings. With the hope of inspiring more applications and research within the MMFL paradigm, we conduct a comprehensive review of the progress and challenges in various aspects of state-of-the-art MMFL. Specifically, we analyze the research motivation for MMFL, propose a new classification method of existing research, discuss the available datasets and application scenarios, and put forward perspectives on the opportunities and challenges faced by MMFL.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Document Type:&lt;/b&gt;
+Article&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author Keywords:&lt;/b&gt;
+Federated learning; Multimodal learning; Multimodal federated learning; Machine learning&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;KeyWords Plus:&lt;/b&gt;
+FALL DETECTION&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Addresses:&lt;/b&gt;
+[Pan, Hao; Zhao, Xiaoli; Shi, Yicong; Lin, Xiaogang] Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, 333 Longteng Rd, Shanghai 201620, Peoples R China. &lt;br&gt;
+[He, Lipeng] Univ Waterloo, Dept Combinator &amp;amp; Optimizat, 200 Univ Ave West, Waterloo, ON N2L 3G1, Canada. &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, 333 Longteng Rd, Shanghai 201620, Peoples R China.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;E-mail Addresses:&lt;/b&gt;
+ph@sues.edu.cn; zhaoxiaoli@sues.edu.cn; lipeng.he@uwaterloo.ca; m320121104@sues.edu.cn; lxg@sues.edu.cn&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Affiliations:&lt;/b&gt;
+Shanghai University of Engineering Science; University of Waterloo&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;&lt;/table&gt;</summary>
     
     
     
@@ -63,40 +105,471 @@
   </entry>
   
   <entry>
-    <title>什么是异构数据</title>
-    <link href="http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/"/>
-    <id>http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/</id>
-    <published>2025-01-10T10:34:59.974Z</published>
-    <updated>2025-01-16T10:30:36.093Z</updated>
+    <title>Cluster knowledge-driven vertical federated learning</title>
+    <link href="http://lab7402.github.io/2025/01/17/Cluster%20knowledge-driven%20vertical%20federated%20learning/"/>
+    <id>http://lab7402.github.io/2025/01/17/Cluster%20knowledge-driven%20vertical%20federated%20learning/</id>
+    <published>2025-01-17T07:10:12.835Z</published>
+    <updated>2025-01-17T07:21:39.054Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;在机器学习中，数据通常被分为两类：&quot;&gt;&lt;a href=&quot;#在机器学习中，数据通常被分为两类：&quot; class=&quot;headerlink&quot; title=&quot;在机器学习中，数据通常被分为两类：&quot;&gt;&lt;/a&gt;在机器学习中，数据通常被分为两类：&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;同</summary>
-      
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value&gt;Zilong Yin, Xiaoli Zhao*, Haoyu Wang, et al. Cluster knowledge-driven vertical federated learning, The Journal of Supercomputing, 2024, 5: 1-24. (SCI 3 区)&lt;/value&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author(s):&lt;/b&gt;
+Yin, ZL (Yin, Zilong); Zhao, XL (Zhao, Xiaoli); Wang, HY (Wang, Haoyu); Zhang, X (Zhang, Xin); Guo, X (Guo, Xin); Fang, ZJ (Fang, Zhijun)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;b&gt;Source:&lt;/b&gt; 
+&lt;value&gt;JOURNAL OF SUPERCOMPUTING&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Volume:&lt;/b&gt; 
+&lt;value&gt;80&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Issue:&lt;/b&gt; 
+&lt;value&gt;14&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Pages:&lt;/b&gt; 
+&lt;value&gt;20229-20252&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;DOI:&lt;/b&gt; 
+&lt;value&gt;10.1007/s11227-024-06232-4&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Early Access Date:&lt;/b&gt; 
+&lt;value&gt;MAY 2024&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Published Date:&lt;/b&gt; 
+&lt;value&gt;2024 SEP&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Abstract:&lt;/b&gt;
+In industrial scenarios, cross-departmental collaboration is necessary to achieve quality traceability. However, data cannot be shared due to privacy concerns. Vertical Federated Learning (VFL) enables heterogeneous industrial sectors to jointly train models while preserving product privacy. However, existing traditional VFL algorithms only focus on aligning feature benefits and suffer from high communication costs and poor performance. This paper proposes a &quot;Cluster Knowledge-Driven Vertical Federated Learning&quot; (Cluster-VFL) algorithm, which integrates cluster intelligence to optimize heterogeneous distributed environments. In Cluster-VFL, each participant engages in training as an individual within the cluster, taking into account the utilization of non-aligned features. Cluster-VFL promotes model updates by identifying global optimal individuals and transferring global optimal knowledge. Subsequently, this knowledge is merged with the individual optimal knowledge obtained from local training of each participant. We conducted extensive experiments using an open-source diagnostic dataset and a proprietary dataset from Company A. The results unequivocally demonstrate that this algorithm enhances participants&#39; learning abilities, improves their communication efficiency.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Document Type:&lt;/b&gt;
+Article&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author Keywords:&lt;/b&gt;
+Vertical federated learning; Cluster intelligence; Knowledge-driven&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Addresses:&lt;/b&gt;
+[Yin, Zilong; Zhao, Xiaoli; Wang, Haoyu; Zhang, Xin] Shanghai Univ Engn Sci, 333 Longteng Rd, Shanghai 201620, Peoples R China. &lt;br&gt;
+[Fang, Zhijun] Donghua Univ, 2999 North Renmin Rd, Shanghai 201620, Peoples R China. &lt;br&gt;
+[Guo, Xin] Sanda Univ, 2727 Jinhai Rd, Shanghai 201209, Peoples R China. &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, 333 Longteng Rd, Shanghai 201620, Peoples R China.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;E-mail Addresses:&lt;/b&gt;
+zilong_yin@163.com; evawhy@163.com; wanghy@sues.edu.cn; kxamanda@163.com; smilegx110@hotmail.cn; zjfang@dhu.edu.cn&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Affiliations:&lt;/b&gt;
+Shanghai University of Engineering Science; Donghua University; Sanda University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;&lt;/table&gt;</summary>
     
     
     
-    <category term="通知" scheme="http://lab7402.github.io/categories/%E9%80%9A%E7%9F%A5/"/>
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
     
     
-    <category term="机器学习" scheme="http://lab7402.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="联邦学习" scheme="http://lab7402.github.io/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://lab7402.github.io/2025/01/10/hello-world/"/>
-    <id>http://lab7402.github.io/2025/01/10/hello-world/</id>
-    <published>2025-01-10T08:54:31.707Z</published>
-    <updated>2025-01-16T10:31:04.705Z</updated>
+    <title>Data heterogeneous federated learning algorithm for industrial entity extraction</title>
+    <link href="http://lab7402.github.io/2025/01/17/Data%20heterogeneous%20federated%20learning%20algorithm%20for%20industrial%20entity%20extraction/"/>
+    <id>http://lab7402.github.io/2025/01/17/Data%20heterogeneous%20federated%20learning%20algorithm%20for%20industrial%20entity%20extraction/</id>
+    <published>2025-01-17T06:48:42.091Z</published>
+    <updated>2025-01-17T06:58:05.646Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value&gt;Shengze Fu, Xiaoli Zhao*, Chi Yang, et al. Data heterogeneous federated learning algorithm for industrial entity extraction, Displays, 2023, 80:102504. (SCI 2 区) &lt;/value&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author(s):&lt;/b&gt;
+Fu, SZ (Fu, Shengze); Zhao, XL (Zhao, Xiaoli); Yang, C (Yang, Chi); Fang, ZJ (Fang, Zhijun)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;b&gt;Source:&lt;/b&gt; 
+&lt;value&gt;DISPLAYS&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Volume:&lt;/b&gt; 
+&lt;value&gt;80&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Article Number:&lt;/b&gt; 
+&lt;value&gt;102504&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;DOI:&lt;/b&gt; 
+&lt;value&gt;10.1016/j.displa.2023.102504&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Early Access Date:&lt;/b&gt; 
+&lt;value&gt;SEP 2023&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Published Date:&lt;/b&gt; 
+&lt;value&gt;2023 DEC&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Abstract:&lt;/b&gt;
+Entity extraction is an important part to realize digital transformation in the industrial field. Building an entity extraction model in the industrial field requires a lot of data. The parties in industry often cannot share data due to commercial competition and security and privacy issues, thus forming &quot;Data Island&quot;. Federated learning provides a solution to this problem. Federated learning is a distributed machine learning framework that allows each party to train locally and independently using their own private data. The model parameters or gradient information of each party will be aggregated to the central server, thus forming a model jointly trained by all parties. This approach can not only protect the security and privacy of data from all parties, but also fully utilize their data resources. Federated learning can effectively solve the problem of data island, but it still faces some problems and challenges, among which the most typical problem is data heterogeneity. To address the data islanding problem and data heterogeneity problem faced by industrial entity extraction, this paper uses a federated learning framework to solve the data islanding problem and proposes the FedDP algorithm. This algorithm assigns weights based on the data quality performance of each participant. Participants with relatively good data quality performance have higher weights in the aggregation stage, while participants with relatively poor data quality performance have lower weights in the aggregation stage, thus optimizing the performance of federated learning in heterogeneous data scenarios.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Document Type:&lt;/b&gt;
+Article&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author Keywords:&lt;/b&gt;
+Entity extraction; Federated learning; Non-IID; Data quality performance&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;KeyWords Plus:&lt;/b&gt;
+BLIND QUALITY ASSESSMENT&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Addresses:&lt;/b&gt;
+[Fu, Shengze; Zhao, Xiaoli; Yang, Chi] Shanghai Univ Engn Sci, Coll Elect &amp;amp; Elect Engn, Shanghai 201600, Peoples R China. &lt;br&gt;
+[Fang, Zhijun] Donghua Univ, Sch Comp Sci &amp;amp; technol, Shanghai, Peoples R China. &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Coll Elect &amp;amp; Elect Engn, Shanghai 201600, Peoples R China.&lt;br&gt;Fang, ZJ (corresponding author), Donghua Univ, Sch Comp Sci &amp;amp; technol, Shanghai, Peoples R China.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;E-mail Addresses:&lt;/b&gt;
+zhaoxiaoli@sues.edu.cn&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Affiliations:&lt;/b&gt;
+Shanghai University of Engineering Science; Donghua University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="联邦学习" scheme="http://lab7402.github.io/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AFLNet:Adversarial focal loss network for RGB-D salient object detection</title>
+    <link href="http://lab7402.github.io/2025/01/17/AFLNet%20Adversarial%20focal%20loss%20network%20for%20RGB-D%20salient%20object%20detection/"/>
+    <id>http://lab7402.github.io/2025/01/17/AFLNet%20Adversarial%20focal%20loss%20network%20for%20RGB-D%20salient%20object%20detection/</id>
+    <published>2025-01-17T06:36:16.674Z</published>
+    <updated>2025-01-17T07:01:01.967Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value&gt;Xiaoli Zhao, Zheng Chen, Jenq-Neng Hwang, et al. AFLNet: Adversarial focal loss network for RGB-D salient object detection. Signal Processing: Image Communication, 2021, 94: 116224. (SCI 2 区)&lt;/value&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author(s):&lt;/b&gt;
+Zhao, XL (Zhao, Xiaoli); Chen, Z (Chen, Zheng); Hwang, JN (Hwang, Jenq-Neng); Shang, XW (Shang, Xiwu)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;b&gt;Source:&lt;/b&gt; 
+&lt;value&gt;SIGNAL PROCESSING-IMAGE COMMUNICATION&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Volume:&lt;/b&gt; 
+&lt;value&gt;94&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Article Number:&lt;/b&gt; 
+&lt;value&gt;116224&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;DOI:&lt;/b&gt; 
+&lt;value&gt;10.1016/j.image.2021.116224&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Early Access Date:&lt;/b&gt; 
+&lt;value&gt;MAR 2021&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Published Date:&lt;/b&gt; 
+&lt;value&gt;2021 MAY&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;&lt;br&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Abstract:&lt;/b&gt;
+Because salient objects usually have fewer data in a scene, the problem of class imbalance is often encountered in salient object detection (SOD). In order to address this issue and achieve the consistent salient objects, we propose an adversarial focal loss network with improving generative adversarial networks for RGB-D SOD (called AFLNet), in which color and depth branches constitute the generator to achieve the saliency map, and adversarial branch with high-order potentials, instead of pixel-wise loss function, refines the output of the generator to obtain contextual information of objects. We infer the adversarial focal loss function to solve the problem of foreground?background class imbalance. To sufficiently fuse the high-level features of color and depth cues, an inception model is adopted in deep layers. We conduct a large number of experiments using our proposed model and its variants, and compare them with state-of-the-art methods. Quantitative and qualitative experimental results exhibit that our proposed approach can improve the accuracy of salient object detection and achieve the consistent objects.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Document Type:&lt;/b&gt;
+Article&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author Keywords:&lt;/b&gt;
+RGB-D saliency object detection; Class imbalance; Adversarial focal loss; Inception fusion model&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;KeyWords Plus:&lt;/b&gt;
+FUSION&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Addresses:&lt;/b&gt;
+[Zhao, Xiaoli; Chen, Zheng; Shang, Xiwu] Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, Shanghai 201620, Peoples R China. &lt;br&gt;
+[Hwang, Jenq-Neng] Univ Washington, Dept Elect Engn, Seattle, WA 98195 USA. &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, Shanghai 201620, Peoples R China.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;E-mail Addresses:&lt;/b&gt;
+evawhy@163.com&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Affiliations:&lt;/b&gt;
+Shanghai University of Engineering Science; University of Washington; University of Washington Seattle&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="图像处理" scheme="http://lab7402.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gradient-based adaptive particle swarm optimizer with improved extremal optimization</title>
+    <link href="http://lab7402.github.io/2025/01/17/Gradient-based%20adaptive%20particle%20swarm%20optimizer%20with%20improved%20extremal%20optimization/"/>
+    <id>http://lab7402.github.io/2025/01/17/Gradient-based%20adaptive%20particle%20swarm%20optimizer%20with%20improved%20extremal%20optimization/</id>
+    <published>2025-01-17T06:10:29.532Z</published>
+    <updated>2025-01-17T07:02:56.590Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value&gt;Xiaoli Zhao, Jenq-Neng Hwang, Zhijun Fang, et al. Gradient-based adaptive particle swarm optimizer with improved extremal optimization. Applied Intelligence, 2018, (12): 4646-4659. (SCI 2 区)&lt;/value&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author(s):&lt;/b&gt;
+Zhao, XL (Zhao, Xiaoli); Hwang, JN (Hwang, Jenq-Neng); Fang, ZJ (Fang, Zhijun); Wang, GZ (Wang, Guozhong)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;b&gt;Source:&lt;/b&gt; 
+&lt;value&gt;APPLIED INTELLIGENCE&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Volume:&lt;/b&gt; 
+&lt;value&gt;48&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Issue:&lt;/b&gt; 
+&lt;value&gt;12&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Pages:&lt;/b&gt; 
+&lt;value&gt;4646-4659&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;DOI:&lt;/b&gt; 
+&lt;value&gt;10.1007/s10489-018-1228-9&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Published Date:&lt;/b&gt; 
+&lt;value&gt;2018 DEC&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Abstract:&lt;/b&gt;
+Most real-world applications can be formulated as optimization problems, which commonly suffer from being trapped into the local optima. In this paper, we make full use of the global search capability of particle swarm optimization (PSO) and local search ability of extremal optimization (EO), and propose a gradient-based adaptive PSO with improved EO (called GAPSO-IEO) to overcome the issue of local optima deficiency of optimization in high-dimensional search and reduce the time complexity of the algorithm. In the proposed algorithm, the improved EO (IEO) is adaptively incorporated into PSO to avoid the particles being trapped into the local optima according to the evolutional states of the swarm, which are estimated based on the gradients of the fitness functions of the particles. We also improve the mutation strategy of EO by performing polynomial mutation (PLM) on each particle, instead of on each component of the particle, therefore, the algorithm is not sensitive to the dimension of the swarm. The proposed algorithm is tested on several unimodal/multimodal benchmark functions and Berkeley Segmentation Dataset and Benchmark (BSDS300). The results of experiments have shown the superiority and efficiency of the proposed approach compared with those of the state-of-the-art algorithms, and can achieve better performance in high-dimensional tasks.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Document Type:&lt;/b&gt;
+Article&lt;/td&gt;
+&lt;/tr&gt;
+&lt;br&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Author Keywords:&lt;/b&gt;
+Gradient; Mutation strategy; Adaptive particle swarm optimizer; Improving extremal optimization&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;KeyWords Plus:&lt;/b&gt;
+ALGORITHM; MUTATION&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Addresses:&lt;/b&gt;
+[Zhao, Xiaoli; Fang, Zhijun] Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, Shanghai 201620, Peoples R China. &lt;br&gt;
+[Zhao, Xiaoli; Wang, Guozhong] Shanghai Univ, Sch Commun &amp;amp; Informat Engn, Shanghai 200444, Peoples R China. &lt;br&gt;
+[Hwang, Jenq-Neng] Univ Washington, Dept Elect Engn, Seattle, WA 98195 USA. &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, Shanghai 201620, Peoples R China.&lt;br&gt;Zhao, XL (corresponding author), Shanghai Univ, Sch Commun &amp;amp; Informat Engn, Shanghai 200444, Peoples R China.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;b&gt;E-mail Addresses:&lt;/b&gt;
+evawhy@163.com; hwang@uw.edu; zjfang@sues.edu.cn; wanggz@shu.edu.cn&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="粒子群优化算法" scheme="http://lab7402.github.io/tags/%E7%B2%92%E5%AD%90%E7%BE%A4%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A multilevel image thresholding segmentation algorithm based on two-dimensional K-L divergence and modified particle swarm optimization</title>
+    <link href="http://lab7402.github.io/2025/01/17/A%20multilevel%20image%20thresholding%20segmentation%20algorithm%20based%20on%20two-dimensional%20K-L%20divergence%20and%20modified%20particle%20swarm%20optimization/"/>
+    <id>http://lab7402.github.io/2025/01/17/A%20multilevel%20image%20thresholding%20segmentation%20algorithm%20based%20on%20two-dimensional%20K-L%20divergence%20and%20modified%20particle%20swarm%20optimization/</id>
+    <published>2025-01-17T05:21:56.690Z</published>
+    <updated>2025-01-17T07:05:26.390Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value _mstmutation=&quot;1&quot;&gt;Xiaoli Zhao, Matthew Turk, Wei Li, et a1. A multilevel image thresholding segmentation algorithm based on two-dimensional K–L divergence and modified particle swarm optimization. Applied Soft Computing, 2016, 48: 151-159. (SCI 2区)&lt;/value&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author(s):&lt;/b&gt;
+Zhao, XL (Zhao, Xiaoli); Turk, M (Turk, Matthew); Li, W (Li, Wei); Lien, KC (Lien, Kuo-chin); Wang, GZ (Wang, Guozhong)&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Source:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;APPLIED SOFT COMPUTING&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Volume:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;48&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Pages:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;151-159&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;DOI:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;10.1016/j.asoc.2016.07.016&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Published Date:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;2016 NOV&lt;/value&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Abstract:&lt;/b&gt;
+Multilevel im age segmentation is a technique that divides images into multiple homogeneous regions. In order to improve the effectiveness and efficiency of multilevel image thresholding segmentation, we propose a segmentation algorithm based on two-dimensional (2D) Kullback-Leibler (K-L) divergence and modified Particle Swarm Optimization (MPSO). This approach calculates the 2D K-L divergence between an image and its segmented result by adopting 2D histogram as the distribution function, then employs the sum of divergences of different regions as the fitness function of MPSO to seek the optimal thresholds. The proposed 2D K-L divergence improves the accuracy of image segmentation; the MPSO overcomes the drawback of premature convergence of PSO by improving the location update formulation and the global best position of particles, and reduces drastically the time complexity of multilevel thresholding segmentation. Experiments were conducted extensively on the Berkeley Segmentation Dataset and Benchmark (BSDS300), and four performance indices of image segmentation - BDE, PRI, GCE and VOI - were tested. The results show the robustness and effectiveness of the proposed algorithm. (C) 2016 Elsevier B.V. All rights reserved.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Document Type:&lt;/b&gt;
+Article&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author Keywords:&lt;/b&gt;
+2D K-L divergence; Modified PSO; Multilevel image thresholding; segmentation&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;KeyWords Plus:&lt;/b&gt;
+ENTROPY; SCHEME; KAPURS&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Addresses:&lt;/b&gt;
+[Zhao, Xiaoli; Wang, Guozhong] Shanghai Univ, Sch Commun &amp;amp; Informat Engn, Shanghai 200444, Peoples R China. &lt;br _mstmutation=&quot;1&quot;&gt;
+[Turk, Matthew; Lien, Kuo-chin] Univ Calif Santa Barbara, Dept Comp Sci, Santa Barbara, CA 93106 USA. &lt;br _mstmutation=&quot;1&quot;&gt;
+[Zhao, Xiaoli] Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, Shanghai 201620, Peoples R China. &lt;br _mstmutation=&quot;1&quot;&gt;
+[Li, Wei] Zhejiang Univ, Dept Comp Sci &amp;amp; Technol, Hangzhou 310027, Zhejiang, Peoples R China. &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Sch Elect &amp;amp; Elect Engn, Shanghai 201620, Peoples R China.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;E-mail Addresses:&lt;/b&gt;
+evawhy@163.com&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="图像处理" scheme="http://lab7402.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简介</title>
+    <link href="http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/"/>
+    <id>http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/</id>
+    <published>2025-01-14T06:06:17.096Z</published>
+    <updated>2025-01-17T04:39:31.795Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;导师简介：&quot;&gt;&lt;a href=&quot;#导师简介：&quot; class=&quot;headerlink&quot; title=&quot;导师简介：&quot;&gt;&lt;/a&gt;导师简介：&lt;/h1&gt;&lt;div class=&quot;article&quot; frag=&quot;窗口3&quot; portletmode=&quot;simpleArticleAttri&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+				  &lt;div class=&quot;entry&quot;&gt;
+					&lt;div class=&quot;read&quot;&gt;&lt;div class=&quot;wp_articlecontent&quot;&gt;&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt; 	 	&lt;/style&gt;&lt;/p&gt;&lt;center&gt;&lt;table class=&quot;wp_editor_art_paste_table&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;60&quot;&gt;&lt;col width=&quot;118&quot;&gt;&lt;col width=&quot;71&quot;&gt;&lt;col width=&quot;109&quot;&gt;&lt;col width=&quot;123&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td height=&quot;41&quot;&gt;&lt;p&gt;姓名&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;赵晓丽&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;性别&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;女&lt;/p&gt;&lt;/td&gt;&lt;td rowspan=&quot;3&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://seee.sues.edu.cn/_upload/article/images/f3/47/91077bde4722ae731fc1b71e7854/964dff1d-4fa7-4881-a293-3e8f1996ac58.jpg&quot; align=&quot;BOTTOM&quot; width=&quot;111&quot; height=&quot;164&quot; border=&quot;0&quot;&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;职称&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;p&gt;教授&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;研究方向&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;p&gt;人工智能、联邦学习、多模态学习、视频&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;/&lt;/span&gt;&lt;/span&gt;图像处理&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;通讯地址&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;现代交通中心&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;7932&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;联系电话&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;13564034656&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;电子邮箱&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;evawhy@163.com&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;42&quot;&gt;&lt;p&gt;主讲课程&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;数字图像处理，深度学习及应用，信息论与编码&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;52&quot;&gt;&lt;p&gt;个人简介&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p style=&quot;text-indent:0.84cm;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;教授，博士，硕士研究生导师。上海市计算机学会人工智能专委会副主任，上海市图像图形学会理事、标准化委员会副主任，中国图象图形学学会多媒体专委会委员。曾于&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;color:#333333;font-size:16px;color:#333333;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;2014.9-2015.9&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;在美国加州大学圣巴巴拉分校计算机科学系&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;color:#333333;font-size:16px;color:#333333;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;4eyes&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;实验室做高级访问学者，导师为计算机视觉方面的著名专家&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;color:#333333;font-size:16px;color:#333333;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;Matthew Turk&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#333333;color:#333333;font-size:12px;font-size:13px&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:0.74cm;widows:2;orphans:2;text-align:justify;&quot;&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;主持国家自然科学基金面上项目&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，主持上海市科委项目&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，作为课题执行人参与科技部重大项目&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项、国家重点研发计划&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，主持单批&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;25&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;万元科技成果转化&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，牵头制定团体标准&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，参与标准&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项。近&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;年以第一作者和通讯作者发表高水平学术论文&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;20&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;余篇，授权发明专利&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;项，出版专著&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;本。主持上海市一流本科课程&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;门，出版教材&lt;/span&gt;&lt;span style=&quot;font-family:宋体, serif;font-size:16px;font-size:16px;font-size:12px;font-size:13px&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size:16px;font-size:12px;font-size:13px&quot;&gt;本。所带学生获多项国家和上海市奖项。&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;近&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;5&lt;/span&gt;&lt;/span&gt;年主要科研项目&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p style=&quot;text-indent:-0.74cm;margin-left:0.74cm;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;1&lt;/span&gt;&lt;/span&gt;） 国家自然科学基金面上项目：元知识驱动的多模态联邦自监督学习算法研究&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2024.01-2027.12. &lt;/span&gt;&lt;/span&gt;主持&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-0.74cm;margin-left:0.74cm;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2&lt;/span&gt;&lt;/span&gt;） 科技创新&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2030-“&lt;/span&gt;&lt;/span&gt;新一代人工智能”重大项目：工业领域知识自动构建与推理决策技术及应用&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2020.11-2023.10. &lt;/span&gt;&lt;/span&gt;课题四执行人&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-0.74cm;margin-left:0.74cm;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;3&lt;/span&gt;&lt;/span&gt;） 上海市科技创新行动计划：面向智能制造的联邦学习应用研究及标准制定&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2022.08-2024.07. &lt;/span&gt;&lt;/span&gt;主持&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-0.37cm;margin-left:0.37cm;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;近&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;5&lt;/span&gt;&lt;/span&gt;年第一作者&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;/&lt;/span&gt;&lt;/span&gt;通讯作者主要&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;SCI/EI&lt;/span&gt;&lt;/span&gt;论文&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;ol class=&quot; list-paddingleft-2&quot;&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;, ZhengChen, Jenq-Neng Hwang, Xiwu Shang. AFLNet: Adversarial focal loss network for RGB-D salient object detection. Signal Prpcessing: Image Communication, 2021, 94:116224-116233.&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;&amp;nbsp;(SCI) &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;, Jenq-Neng Hwang, Zhijun Fang, Guozhong Wang. Gradient-based adaptive particle swarm optimizer with improved extremal optimization. Applied Intelligence&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span style=&quot;font-family:等线, serif;font-family:times new roman, serif;&quot;&gt;2018&lt;/span&gt;，&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;48(12):4646-4659. (&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;SCI&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;sup&gt;*&lt;/sup&gt;, Matthew Turk, Wei Li, Kuo-chin Lien, Guozhong Wang. A multilevel image thresholding segmentation algorithm based on 2D K-L divergence and modified particle swarm optimization. Applied Soft Computing, 2016, 48: 151-159. (&lt;strong&gt;SCI&lt;/strong&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;strong&gt;Xiaoli Zhao&lt;/strong&gt;&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;*&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;, Guozhong Wang, Jiaqi Zhang, Xiang Zhang. Scene Understanding Based on high-order potentials and Generative Adversarial Networks. Advances in Multimedia&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span style=&quot;font-family:等线, serif;font-family:times new roman, serif;&quot;&gt;2018:1-8. &amp;nbsp;(EI)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;Shengze Fu, Xiaoli Zhao&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;*&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&amp;nbsp;et al. Data heterogeneous federated learning algorithm for industrial entity extraction, Displays, 2023,08: 102504. (SCI)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&amp;nbsp;陈正，&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;strong&gt;赵晓丽&lt;/strong&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;基于跨模态特征融合的&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;RGB-D &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;显著性目标检测&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;计算机辅助设计与图形学学报，&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2021,10:1688-1697.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;（&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EI&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;）&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:left;margin-bottom:0cm;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&amp;nbsp;尹明臣，&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;strong&gt;赵晓丽&lt;/strong&gt;&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;融合&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;3D DenseNet&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;的零样本视频分类&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;武汉大学学报（信息科学版）&lt;span style=&quot;font-family:等线, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. 2021,10:1-12.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;EI&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#000000;font-family:宋体;&quot;&gt;）&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;专著&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p style=&quot;widows:2;orphans:2;text-align:justify;margin-left:0.64cm;&quot;&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;&amp;nbsp;赵晓丽&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;. &lt;/span&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;面向图像分割的智能算法&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;[M].&lt;/span&gt;&lt;span style=&quot;font-family:宋体;&quot;&gt;北京：中国铁道出版社有限公司，&lt;/span&gt;&lt;span style=&quot;font-family:等线, serif;font-family:宋体, serif;&quot;&gt;2021,08.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;61&quot;&gt;&lt;p&gt;标准&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;智能制造联邦学习应用指南&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. T/SIGA 003-2024, &lt;/span&gt;&lt;/span&gt;主持&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;60&quot;&gt;&lt;p&gt;教学项目&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;p&gt;&lt;a name=&quot;OLE_LINK3&quot;&gt;&lt;/a&gt;&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;5G+&lt;/span&gt;&lt;/span&gt;无人驾驶自主规划虚拟仿真实验&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;. &lt;/span&gt;&lt;/span&gt;上海市一流课程，&lt;span style=&quot;font-family:times new roman, serif;&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;2023.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/center&gt;&lt;p style=&quot;margin-bottom:0cm;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+				  &lt;/div&gt;</summary>
     
     
     

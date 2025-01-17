@@ -20,26 +20,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"lab7402.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.22.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/./public/search.json","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="在机器学习中，数据通常被分为两类： 同构数据 (I.i.d. data): 每个数据样本都独立同分布，即数据之间没有明显的差异或相关性。例如，一个标准的图像数据集，其中每个图像都来自相同的类别，并且图像之间没有明显的联系。  异构数据 (Heterogeneous data): 数据样本之间存在明显的差异或相关性，例如不同的分布、不同的特征或不同的标签。例如，一个包含不同类别图像的数据集，其中每个">
+    <meta name="description" content="Title:  Zilong Yin, Xiaoli Zhao*, Haoyu Wang, et al. Cluster knowledge-driven vertical federated learning, The Journal of Supercomputing, 2024, 5: 1-24. (SCI 3 区)      Author(s): Yin, ZL (Yin, Zil">
 <meta property="og:type" content="article">
-<meta property="og:title" content="什么是异构数据">
-<meta property="og:url" content="http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/index.html">
+<meta property="og:title" content="Cluster knowledge-driven vertical federated learning">
+<meta property="og:url" content="http://lab7402.github.io/2025/01/17/Cluster%20knowledge-driven%20vertical%20federated%20learning/index.html">
 <meta property="og:site_name" content="lab7402">
-<meta property="og:description" content="在机器学习中，数据通常被分为两类： 同构数据 (I.i.d. data): 每个数据样本都独立同分布，即数据之间没有明显的差异或相关性。例如，一个标准的图像数据集，其中每个图像都来自相同的类别，并且图像之间没有明显的联系。  异构数据 (Heterogeneous data): 数据样本之间存在明显的差异或相关性，例如不同的分布、不同的特征或不同的标签。例如，一个包含不同类别图像的数据集，其中每个">
+<meta property="og:description" content="Title:  Zilong Yin, Xiaoli Zhao*, Haoyu Wang, et al. Cluster knowledge-driven vertical federated learning, The Journal of Supercomputing, 2024, 5: 1-24. (SCI 3 区)      Author(s): Yin, ZL (Yin, Zil">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2025-01-10T10:34:59.974Z">
-<meta property="article:modified_time" content="2025-01-16T10:30:36.093Z">
-<meta property="article:tag" content="机器学习">
+<meta property="og:image" content="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11227-024-06232-4/MediaObjects/11227_2024_6232_Fig2_HTML.png?as=webp">
+<meta property="article:published_time" content="2025-01-17T07:10:12.835Z">
+<meta property="article:modified_time" content="2025-01-17T07:21:39.054Z">
+<meta property="article:tag" content="联邦学习">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11227-024-06232-4/MediaObjects/11227_2024_6232_Fig2_HTML.png?as=webp">
 
 
-<link rel="canonical" href="http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/">
+<link rel="canonical" href="http://lab7402.github.io/2025/01/17/Cluster%20knowledge-driven%20vertical%20federated%20learning/">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/","path":"2025/01/10/在机器学习中，数据通常被分为两类：/","title":"什么是异构数据"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://lab7402.github.io/2025/01/17/Cluster%20knowledge-driven%20vertical%20federated%20learning/","path":"2025/01/17/Cluster knowledge-driven vertical federated learning/","title":"Cluster knowledge-driven vertical federated learning"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>什么是异构数据 | lab7402</title>
+<title>Cluster knowledge-driven vertical federated learning | lab7402</title>
   
 
 
@@ -126,7 +128,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+    <div class="sidebar-inner sidebar-overview-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           文章目录
@@ -139,7 +141,6 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A"><span class="nav-number">1.</span> <span class="nav-text">在机器学习中，数据通常被分为两类：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BC%82%E6%9E%84%E6%95%B0%E6%8D%AE%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BD%B1%E5%93%8D"><span class="nav-number">2.</span> <span class="nav-text">异构数据对机器学习的影响</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E5%BC%82%E6%9E%84%E6%95%B0%E6%8D%AE%E7%9A%84%E6%96%B9%E6%B3%95"><span class="nav-number">3.</span> <span class="nav-text">解决异构数据的方法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%BB%E7%BB%93"><span class="nav-number">4.</span> <span class="nav-text">总结</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -152,7 +153,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">4</span>
+          <span class="site-state-item-count">7</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -163,7 +164,7 @@
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -190,7 +191,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/">
+    <link itemprop="mainEntityOfPage" href="http://lab7402.github.io/2025/01/17/Cluster%20knowledge-driven%20vertical%20federated%20learning/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -203,12 +204,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="什么是异构数据 | lab7402">
+      <meta itemprop="name" content="Cluster knowledge-driven vertical federated learning | lab7402">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          什么是异构数据
+          Cluster knowledge-driven vertical federated learning
         </h1>
 
         <div class="post-meta-container">
@@ -218,15 +219,9 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
+      
 
-      <time title="创建时间：2025-01-10 18:34:59" itemprop="dateCreated datePublished" datetime="2025-01-10T18:34:59+08:00">2025-01-10</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2025-01-16 18:30:36" itemprop="dateModified" datetime="2025-01-16T18:30:36+08:00">2025-01-16</time>
+      <time title="创建时间：2025-01-17 15:10:12 / 修改时间：15:21:39" itemprop="dateCreated datePublished" datetime="2025-01-17T15:10:12+08:00">2025-01-17</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -234,7 +229,7 @@
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E9%80%9A%E7%9F%A5/" itemprop="url" rel="index"><span itemprop="name">通知</span></a>
+          <a href="/categories/%E8%AE%BA%E6%96%87/" itemprop="url" rel="index"><span itemprop="name">论文</span></a>
         </span>
     </span>
 
@@ -245,14 +240,14 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>658</span>
+      <span>2.3k</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
         <i class="far fa-clock"></i>
       </span>
       <span class="post-meta-item-text">阅读时长 &asymp;</span>
-      <span>1 分钟</span>
+      <span>2 分钟</span>
     </span>
 </div>
 
@@ -262,26 +257,81 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><h2 id="在机器学习中，数据通常被分为两类："><a href="#在机器学习中，数据通常被分为两类：" class="headerlink" title="在机器学习中，数据通常被分为两类："></a>在机器学习中，数据通常被分为两类：</h2><ul>
-<li><p>同构数据 (I.i.d. data): 每个数据样本都独立同分布，即数据之间没有明显的差异或相关性。例如，一个标准的图像数据集，其中每个图像都来自相同的类别，并且图像之间没有明显的联系。</p>
-</li>
-<li><p>异构数据 (Heterogeneous data): 数据样本之间存在明显的差异或相关性，例如不同的分布、不同的特征或不同的标签。例如，一个包含不同类别图像的数据集，其中每个类别都包含不同的图像特征和标签。</p>
-</li>
-</ul>
-<h2 id="异构数据对机器学习的影响"><a href="#异构数据对机器学习的影响" class="headerlink" title="异构数据对机器学习的影响"></a>异构数据对机器学习的影响</h2><p>异构数据对机器学习算法的性能有很大影响，因为它会导致数据分布不均匀，从而影响模型的泛化能力和收敛速度。<br><strong>具体来说，异构数据可能导致以下问题：</strong></p>
-<ul>
-<li>模型偏差: 模型可能会偏向于某个特定的数据子集，从而导致在整体数据上的性能下降。</li>
-<li>收敛速度慢: 模型需要更多的时间和计算资源才能收敛到最优解。</li>
-<li>过拟合: 模型可能会在训练数据上表现良好，但在测试数据上表现不佳。</li>
-</ul>
-<h2 id="解决异构数据的方法"><a href="#解决异构数据的方法" class="headerlink" title="解决异构数据的方法"></a>解决异构数据的方法</h2><p>为了解决异构数据带来的问题，研究人员提出了许多方法，例如：</p>
-<ul>
-<li>数据预处理: 对数据进行标准化、归一化或降维等操作，以消除数据之间的差异。</li>
-<li>模型正则化: 使用正则化项来限制模型的复杂度，从而减少过拟合的风险。</li>
-<li>个性化学习: 为每个数据子集设计不同的模型，从而更好地适应不同数据的特征。</li>
-<li>联邦学习: 在保持数据隐私的前提下，将不同设备上的数据联合起来进行训练，从而提高模型的泛化能力。</li>
-</ul>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>异构数据是机器学习中一个重要的问题，需要采用适当的方法来解决。通过理解异构数据的特点和影响，并选择合适的解决方案，我们可以提高机器学习算法的性能和泛化能力。</p>
+    <div class="post-body" itemprop="articleBody"><table>
+<tbody>
+<tr>
+<td>
+<b>Title:</b>
+
+<p><value>Zilong Yin, Xiaoli Zhao*, Haoyu Wang, et al. Cluster knowledge-driven vertical federated learning, The Journal of Supercomputing, 2024, 5: 1-24. (SCI 3 区)</value></p>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>Author(s):</b>
+Yin, ZL (Yin, Zilong); Zhao, XL (Zhao, Xiaoli); Wang, HY (Wang, Haoyu); Zhang, X (Zhang, Xin); Guo, X (Guo, Xin); Fang, ZJ (Fang, Zhijun)</td>
+</tr>
+
+<tr xmlns:bean="http://ts.thomson.com/ua/bean" xmlns:exsl="http://exslt.org/common" xmlns:set="http://exslt.org/sets">
+<td><b>Source:</b> 
+<value>JOURNAL OF SUPERCOMPUTING</value>&nbsp;&nbsp;<b>Volume:</b> 
+<value>80</value>&nbsp;&nbsp;<b>Issue:</b> 
+<value>14</value>&nbsp;&nbsp;<b>Pages:</b> 
+<value>20229-20252</value>&nbsp;&nbsp;<b>DOI:</b> 
+<value>10.1007/s11227-024-06232-4</value>&nbsp;&nbsp;<b>Early Access Date:</b> 
+<value>MAY 2024</value>&nbsp;&nbsp;<b>Published Date:</b> 
+<value>2024 SEP</value>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>
+<b>Abstract:</b>
+In industrial scenarios, cross-departmental collaboration is necessary to achieve quality traceability. However, data cannot be shared due to privacy concerns. Vertical Federated Learning (VFL) enables heterogeneous industrial sectors to jointly train models while preserving product privacy. However, existing traditional VFL algorithms only focus on aligning feature benefits and suffer from high communication costs and poor performance. This paper proposes a "Cluster Knowledge-Driven Vertical Federated Learning" (Cluster-VFL) algorithm, which integrates cluster intelligence to optimize heterogeneous distributed environments. In Cluster-VFL, each participant engages in training as an individual within the cluster, taking into account the utilization of non-aligned features. Cluster-VFL promotes model updates by identifying global optimal individuals and transferring global optimal knowledge. Subsequently, this knowledge is merged with the individual optimal knowledge obtained from local training of each participant. We conducted extensive experiments using an open-source diagnostic dataset and a proprietary dataset from Company A. The results unequivocally demonstrate that this algorithm enhances participants' learning abilities, improves their communication efficiency.</td>
+</tr>
+
+<tr>
+<td>
+<b>Document Type:</b>
+Article</td>
+</tr>
+
+<tr>
+<td>
+<b>Author Keywords:</b>
+Vertical federated learning; Cluster intelligence; Knowledge-driven</td>
+</tr>
+
+<tr>
+<td>
+<b>Addresses:</b>
+[Yin, Zilong; Zhao, Xiaoli; Wang, Haoyu; Zhang, Xin] Shanghai Univ Engn Sci, 333 Longteng Rd, Shanghai 201620, Peoples R China. <br>
+[Fang, Zhijun] Donghua Univ, 2999 North Renmin Rd, Shanghai 201620, Peoples R China. <br>
+[Guo, Xin] Sanda Univ, 2727 Jinhai Rd, Shanghai 201209, Peoples R China. </td>
+</tr>
+
+<tr>
+<td>
+<b>Corresponding Address:</b>
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, 333 Longteng Rd, Shanghai 201620, Peoples R China.</td>
+</tr>
+
+<tr>
+<td>
+<b>E-mail Addresses:</b>
+zilong_yin@163.com; evawhy@163.com; wanghy@sues.edu.cn; kxamanda@163.com; smilegx110@hotmail.cn; zjfang@dhu.edu.cn</td>
+</tr>
+
+<tr>
+<td>
+<b>Affiliations:</b>
+Shanghai University of Engineering Science; Donghua University; Sanda University</td>
+</tr>
+
+</tbody></table>
+<span id="more"></span>
+
+<p><strong>Download:</strong> <a target="_blank" rel="noopener" href="https://link.springer.com/article/10.1007/s11227-024-06232-4">点击下载</a></p>
+<p><strong>Photos:</strong><br><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11227-024-06232-4/MediaObjects/11227_2024_6232_Fig2_HTML.png?as=webp" alt="1-s2.0-S1568494616303428-fx1_lrg.jpg (2213×886)"></p>
 
     </div>
 
@@ -298,7 +348,7 @@
   </li>
   <li class="post-copyright-link">
       <strong>本文链接：</strong>
-      <a href="http://lab7402.github.io/2025/01/10/%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E9%80%9A%E5%B8%B8%E8%A2%AB%E5%88%86%E4%B8%BA%E4%B8%A4%E7%B1%BB%EF%BC%9A/" title="什么是异构数据">http://lab7402.github.io/2025/01/10/在机器学习中，数据通常被分为两类：/</a>
+      <a href="http://lab7402.github.io/2025/01/17/Cluster%20knowledge-driven%20vertical%20federated%20learning/" title="Cluster knowledge-driven vertical federated learning">http://lab7402.github.io/2025/01/17/Cluster knowledge-driven vertical federated learning/</a>
   </li>
   <li class="post-copyright-license">
       <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -307,20 +357,20 @@
 </div>
 
           <div class="post-tags">
-              <a href="/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" rel="tag"><i class="fa fa-tag"></i> 机器学习</a>
+              <a href="/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/" rel="tag"><i class="fa fa-tag"></i> 联邦学习</a>
           </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2025/01/10/hello-world/" rel="prev" title="Hello World">
-                  <i class="fa fa-angle-left"></i> Hello World
+                <a href="/2025/01/17/Data%20heterogeneous%20federated%20learning%20algorithm%20for%20industrial%20entity%20extraction/" rel="prev" title="Data heterogeneous federated learning algorithm for industrial entity extraction">
+                  <i class="fa fa-angle-left"></i> Data heterogeneous federated learning algorithm for industrial entity extraction
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/2025/01/14/Yang%20Q,%20Liu%20Y,%20Cheng%20Y,%20et%20al.%20Federated%20Machine%20Learning%20Concept%20and%20Applications,%202019,%2013(3)_%201-207.%20(1)/" rel="next" title="杨强-联邦学习">
-                  杨强-联邦学习 <i class="fa fa-angle-right"></i>
+                <a href="/2025/01/17/A%20survey%20of%20multimodal%20federated%20learning/" rel="next" title="A survey of multimodal federated learning:background, applications, and perspectives">
+                  A survey of multimodal federated learning:background, applications, and perspectives <i class="fa fa-angle-right"></i>
                 </a>
             </div>
           </div>
@@ -352,13 +402,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="站点总字数">14k</span>
+    <span title="站点总字数">15k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="站点阅读时长">12 分钟</span>
+    <span title="站点阅读时长">14 分钟</span>
   </span>
 </div>
   <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
