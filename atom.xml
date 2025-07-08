@@ -6,10 +6,184 @@
   <link href="http://lab7402.github.io/atom.xml" rel="self"/>
   
   <link href="http://lab7402.github.io/"/>
-  <updated>2025-01-17T07:38:05.098Z</updated>
+  <updated>2025-07-08T11:07:04.059Z</updated>
   <id>http://lab7402.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FedINER:Chinese Industrial Named Entity Recognition with Federated</title>
+    <link href="http://lab7402.github.io/2025/07/08/FedINER/"/>
+    <id>http://lab7402.github.io/2025/07/08/FedINER/</id>
+    <published>2025-07-08T09:59:38.401Z</published>
+    <updated>2025-07-08T11:07:04.059Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value _mstmutation=&quot;1&quot;&gt;Xiaowen Liu, Xiaoli Zhao, Jiale Chen, and Zehui Li. 2025. FedINER: Chinese Industrial Named Entity Recognition with Federated Learning. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 24, 5, Article 53 (May 2025), 20 pages.&lt;/value&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author(s):&lt;/b&gt;
+Liu, XW (Liu, Xiaowen); Zhao, XL (Zhao, Xiaoli); Chen, JL (Chen, Jiale); Li, ZU (Li, Zehui)&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Source:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;ACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE LANGUAGE INFORMATION PROCESSING&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Volume:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;24&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Issue:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;5&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Article Number:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;53&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;DOI:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;10.1145/3730401&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Published Date:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;2025 MAY&lt;/value&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Abstract:&lt;/b&gt;
+Named entity recognition (NER) is foundational in constructing industrial knowledge graphs and is an essential component in the automation of knowledge within the industry. However, due to the particularities of the industrial field, its data involves issues such as business competition and user privacy. Traditional machine learning algorithms concentrate all data on a single machine for training, which may lead to privacy breaches. Federated learning, a distributed machine learning architecture, updates global model parameters through a central server&#39;s aggregation algorithm without exposing private data. Therefore, this paper proposes a privacy-preserving framework for Chinese named entity recognition in the industrial domain, FedINER. The local client model employs a grid-tagging-based approach, which expands upon the character pair tagging system of SOTA models, emphasizing entity boundary information, internal character pair relationships, and the types of relationships. Besides, a bi-axial attention mechanism is utilized to better capture the relevance of relationships within the character pair representation, further optimizing model performance. Then, through federated training, each client benefits from the collective optimization of the global model, thereby improving the performance and accuracy of the model. Experiments on two distinct industrial datasets, conducted under the premise of protecting data privacy and security, have validated the effectiveness of this approach.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Document Type:&lt;/b&gt;
+Article&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author Keywords:&lt;/b&gt;
+Information extraction; named entity recognition; federated learning; Chinese industrial data; data security&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;KeyWords Plus:&lt;/b&gt;
+&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Addresses:&lt;/b&gt;
+[Liu, Xiaowen; Zhao, Xiaoli; Chen, Jiale; Li, Zehui] Shanghai Univ Engn Sci, Shanghai, Peoples R China. &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Shanghai, Peoples R China.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;E-mail Addresses:&lt;/b&gt;
+liuxw603@gmail.com; evawhy@163.com; chenj17879@gmail.com; tzh18236066212@gmail.com&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="联邦学习" scheme="http://lab7402.github.io/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Knowledge-driven federated learning:A systematic literature review on approaches, challenges, and prospects</title>
+    <link href="http://lab7402.github.io/2025/07/08/Knowledge-driven%20federated%20learning%20A%20systematic%20literature%20review%20on%20approaches,%20challenges,%20and%20prospects/"/>
+    <id>http://lab7402.github.io/2025/07/08/Knowledge-driven%20federated%20learning%20A%20systematic%20literature%20review%20on%20approaches,%20challenges,%20and%20prospects/</id>
+    <published>2025-07-08T09:13:39.681Z</published>
+    <updated>2025-07-08T10:16:44.344Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value _mstmutation=&quot;1&quot;&gt;Lin, X., Zhao, X., Yin, Z. et al. Knowledge-driven federated learning: A systematic literature review on approaches, challenges, and prospects. J Supercomput 81, 1016 (2025).&lt;/value&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author(s):&lt;/b&gt;
+Lin, XG (Lin, Xiaogang); Zhao, XL (Zhao, Xiaoli); Yin, ZL (Yin, Zilong); Pan, H (Pan, Hao); Jing, PZ (Jing, Panzhao); Li, WS (Li, Weishan); Wang, KW (Wang, Kangwei); Shu, VC (Shi, Yincan)&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Source:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;JOURNAL OF SUPERCOMPUTING&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Volume:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;81&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Issue:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;8&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Article Number:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;1016&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;DOI:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;10.1007/s11227-025-07516-z&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Published Date:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;2025 JUN 12&lt;/value&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Abstract:&lt;/b&gt;
+Federated learning (FL) enables collaborative model training across distributed clients while preserving data privacy. Recent studies have focused on enhancing FL performance by transferring knowledge, which includes feature representations, fine-grained model parameters, and network architectures. From the aspects of methods, challenges, and prospects, this paper presents a detailed review of knowledge-driven FL, classifying existing methods into four categories: federated learning based on knowledge distillation (FL-KD), federated learning based on knowledge transfer (FL-KT), federated learning based on knowledge sharing (FL-KS), and other innovative approaches. We analyze the techniques used for knowledge management and discuss key challenges in this field. Additionally, we explore strategies in knowledge-driven FL, including FL-KD, FL-KT, FL-KS, and emerging approaches. We also summarize the commonly used datasets, evaluation metrics, and baselines in this area. Finally, we highlight current challenges and future directions, offering insights into potential advancements in knowledge-driven FL.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Document Type:&lt;/b&gt;
+Article&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author Keywords:&lt;/b&gt;
+Federated learning; Knowledge-driven; Knowledge distillation; Knowledge transfer; Knowledge sharing&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;KeyWords Plus:&lt;/b&gt;
+CLIENT SELECTION; PRIVACY; SCHEME; SEGMENTATION; BLOCKCHAIN; FRAMEWORK&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Addresses:&lt;/b&gt;
+[Lin, Xiaogang; Zhao, Xiaoli; Yin, Zilong; Pan, Hao; Wang, Kangwei; Shu, Yincan] Shanghai Univ Engn Sci, Sch Elect &amp; Elect Engn, Shanghai 201620, Peoples R China. &lt;br _mstmutation=&quot;1&quot;&gt;
+[Jing, Panzhao] Xidian Univ, Sch Life Sci &amp; Technol, Xian 710126, Peoples R China. &lt;br _mstmutation=&quot;1&quot;&gt;
+[Li, Weishan] Hangzhou Dianzi Univ, Sch Elect Informat, Hangzhou 201620, Peoples R China. &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Sch Elect &amp; Elect Engn, Shanghai 201620, Peoples R China.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;E-mail Addresses:&lt;/b&gt;
+bg@sues.edu.cn; zhaoxiaoli@sues.edu.cn; zilong_yin@163.com; ph@sues.edu.cn; 22121214106@stu.xidian.edu.cn; 221040006@hdu.edu.cn; kangweiwang2024@163.com; ssyycc1123@163.com&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="元知识" scheme="http://lab7402.github.io/tags/%E5%85%83%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>A survey of multimodal federated learning:background, applications, and perspectives</title>
