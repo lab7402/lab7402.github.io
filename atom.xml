@@ -6,17 +6,276 @@
   <link href="http://lab7402.github.io/atom.xml" rel="self"/>
   
   <link href="http://lab7402.github.io/"/>
-  <updated>2025-07-08T11:07:04.059Z</updated>
+  <updated>2025-08-28T08:49:02.044Z</updated>
   <id>http://lab7402.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Bidirectional Corrective Model-Contrastive Federated Adversarial Training</title>
+    <link href="http://lab7402.github.io/2025/08/28/Bidirectional%20Corrective%20Model-Contrastive%20Federated%20Adversarial%20Training/"/>
+    <id>http://lab7402.github.io/2025/08/28/Bidirectional%20Corrective%20Model-Contrastive%20Federated%20Adversarial%20Training/</id>
+    <published>2025-08-28T08:29:20.886Z</published>
+    <updated>2025-08-28T08:49:02.044Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value _mstmutation=&quot;1&quot;&gt;Zhang, YY, Shi, YC, Zhao, XL. Bidirectional Corrective Model-Contrastive Federated Adversarial Training. ELECTRONICS, 2024, 13(18): 3745. (DOI: 10.3390&amp;#x2F;electronics13183745)&lt;/value&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author(s):&lt;/b&gt;
+Zhang, YY (Zhang, Yuyue); Shi, YC (Shi, Yicong); Zhao, XL (Zhao, Xiaoli)&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Source:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;ELECTRONICS&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Volume:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;13&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Issue:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;18&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Article Number:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;3745&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;DOI:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;10.3390/electronics13183745&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Published Date:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;2024 SEP&lt;/value&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Abstract:&lt;/b&gt;
+When dealing with non-IID data, federated learning confronts issues such as client drift and sluggish convergence. Therefore, we propose a Bidirectional Corrective Model-Contrastive Federated Adversarial Training (BCMCFAT) framework. On the client side, we design a category information correction module to correct biases caused by imbalanced local data by incorporating the local client&#39;s data distribution information. Through local adversarial training, more robust local models are obtained. Secondly, we propose a model-based adaptive correction algorithm in the server that leverages a self-attention mechanism to handle each client&#39;s data distribution information and introduces learnable aggregation tokens. Through the self-attention mechanism, model contrast learning is conducted on each client to obtain aggregation weights of corrected client models, thus addressing the issues of accuracy degradation and slow convergence caused by client drift. Our algorithm achieves the best natural accuracy on the CIFAR-10, CIFAR-100, and SVHN datasets and demonstrates excellent adversarial defense performance against FGSM, BIM, and PGD attacks.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Document Type:&lt;/b&gt;
+Article&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author Keywords:&lt;/b&gt;
+federated learning; adversarial attacks; defense models; contrastive learning; robustness&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;KeyWords Plus:&lt;/b&gt;
+ROBUSTNESS&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Addresses:&lt;/b&gt;
+[Zhang, Yuyue; Shi, Yicong; Zhao, Xiaoli] Shanghai Univ Engn Sci, Sch Elect &amp; Elect Engn, Shanghai 201620, Peoples R China. &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Sch Elect &amp; Elect Engn, Shanghai 201620, Peoples R China.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;E-mail Addresses:&lt;/b&gt;
+m320121365@sues.edu.cn; m320121104@sues.edu.cn; zhaoxiaoli@sues.edu.cn&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="联邦学习" scheme="http://lab7402.github.io/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unsupervised perturbation based self-supervised federated adversarial training</title>
+    <link href="http://lab7402.github.io/2025/08/28/Unsupervised%20perturbation%20based%20self-supervised%20federated%20adversarial%20training/"/>
+    <id>http://lab7402.github.io/2025/08/28/Unsupervised%20perturbation%20based%20self-supervised%20federated%20adversarial%20training/</id>
+    <published>2025-08-28T08:13:35.956Z</published>
+    <updated>2025-08-28T08:21:28.102Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value _mstmutation=&quot;1&quot;&gt;Zhang, YY, Ye, HC, Zhao, XL. Unsupervised perturbation based self-supervised federated adversarial training. APPLIED INTELLIGENCE, 2025, 55(2): 177. (DOI: 10.1007&amp;#x2F;s10489-024-05938-5)&lt;/value&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author(s):&lt;/b&gt;
+Zhang, YY (Zhang, Yuyue); Ye, HC (Ye, Hanchen); Zhao, XL (Zhao, Xiaoli)&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Source:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;APPLIED INTELLIGENCE&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Volume:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;55&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Issue:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;2&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Article Number:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;177&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;DOI:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;10.1007/s10489-024-05938-5&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Published Date:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;2025 JAN&lt;/value&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Abstract:&lt;/b&gt;
+Similar to traditional machine learning, federated learning is susceptible to adversarial attacks. Existing defense methods against federated attacks often rely on extensive labeling during the local training process to enhance model robustness. However, labeling typically requires significant resources. To address the challenges posed by expensive labeling and the robustness issues in federated learning, we propose the Unsupervised Perturbation based Self-Supervised Federated Adversarial Training (UPFAT) framework. Within local clients, we introduce an innovative unsupervised adversarial sample generation method, which adapts the classical self-supervised framework BYOL (Bootstrap Your Own Latent). This method maximizes the distances between embeddings of various transformations of the same input, generating unsupervised adversarial samples aimed at confusing the model. For model communication, we present the Robustness-Enhanced Moving Average (REMA) module, which adaptively utilizes global model updates based on the local model&#39;s robustness. Extensive experiments demonstrate that UPFAT outperforms existing methods by 3 similar to 4%.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Document Type:&lt;/b&gt;
+Article&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author Keywords:&lt;/b&gt;
+Federated learning; Self-supervised learning; Adversarial training; Robustness&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;KeyWords Plus:&lt;/b&gt;
+&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Addresses:&lt;/b&gt;
+[Zhang, Yuyue; Ye, Hanchen; Zhao, Xiaoli] Shanghai Univ Engn Sci, Sch Elect &amp; Elect Engn, Shanghai 201620, Peoples R China. &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Sch Elect &amp; Elect Engn, Shanghai 201620, Peoples R China.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;E-mail Addresses:&lt;/b&gt;
+13682667132@163.com; suliwa1993@outlook.com; evawhy@163.com&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="联邦学习" scheme="http://lab7402.github.io/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FedVLP:Visual-aware latent prompt generation for Multimodal Federated Learning</title>
+    <link href="http://lab7402.github.io/2025/08/28/FedVLP/"/>
+    <id>http://lab7402.github.io/2025/08/28/FedVLP/</id>
+    <published>2025-08-28T07:56:34.312Z</published>
+    <updated>2025-08-28T08:24:59.449Z</updated>
+    
+    
+    <summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Title:&lt;/b&gt;
+
+&lt;p&gt;&lt;value _mstmutation=&quot;1&quot;&gt;Pan, H, Zhao, XL, Jiang, YC, He, LP, Wang, BQ, Shu, YC. FedVLP: Visual-aware latent prompt generation for Multimodal Federated Learning. COMPUTER VISION AND IMAGE UNDERSTANDING, 2025, 259: 104442. (DOI: 10.1016&amp;#x2F;j.cviu.2025.104442)&lt;/value&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author(s):&lt;/b&gt;
+Pan, H (Pan, Hao); Zhao, XL (Zhao, Xiaoli); Jiang, YC (Jiang, Yuchen); He, LP (He, Lipeng); Wang, BQ (Wang, Bingquan); Shu, YC (Shu, Yincan)&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr xmlns:bean=&quot;http://ts.thomson.com/ua/bean&quot; xmlns:exsl=&quot;http://exslt.org/common&quot; xmlns:set=&quot;http://exslt.org/sets&quot;&gt;
+&lt;td&gt;&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Source:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;COMPUTER VISION AND IMAGE UNDERSTANDING&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Volume:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;259&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Article Number:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;104442&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;DOI:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;10.1016/j.cviu.2025.104442&lt;/value&gt;&amp;nbsp;&amp;nbsp;&lt;b _mstmutation=&quot;1&quot;&gt;Published Date:&lt;/b&gt; 
+&lt;value _mstmutation=&quot;1&quot;&gt;2025 SEP&lt;/value&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Abstract:&lt;/b&gt;
+Recent studies indicate that prompt learning based on CLIP-like models excels in a variety of image recognition and detection tasks, consequently, it has been applied in Multimodal Federated Learning (MMFL). Federated Prompt Learning (FPL), as a technical branch of MMFL, enables clients and servers to exchange prompts rather than model parameters during communication to address challenges such as data heterogeneity and high training costs. Many existing FPL methods rely heavily on pre-trained visual-language models, making it difficult for them to handle new and real specialized domain data. To further boost the generalization ability of FPL without compromising the personalization of clients, we propose a novel framework that generates prompts guided by visual semantics to better handle specialized and small-scale data. In our approach, each client generates visual-aware latent prompts using a Fusion Encoder and an IE-Module, enabling the learning of fine-grained knowledge. Through federated computation, clients collaboratively maintain a global prompt, allowing the learning of coarse-grained knowledge. FedVLP removes the dependency on manually designed prompt templates and demonstrates superior performance across seven datasets, including CIFAR-10, CIFAR-100, Caltech-101, FLIndustry-100, and others.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Document Type:&lt;/b&gt;
+Article&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Author Keywords:&lt;/b&gt;
+Multimodal Federated Learning; Visual-language model; Prompt learning; Few-shot&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;KeyWords Plus:&lt;/b&gt;
+&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Addresses:&lt;/b&gt;
+[Pan, Hao; Zhao, Xiaoli; Wang, Bingquan; Shu, Yincan] Shanghai Univ Engn Sci, Shanghai 201600, Peoples R China. &lt;br _mstmutation=&quot;1&quot;&gt;
+[Jiang, Yuchen] Sun Yat Sen Univ, Shenzhen 518107, Peoples R China. &lt;br _mstmutation=&quot;1&quot;&gt;
+[He, Lipeng] Univ Waterloo, Waterloo, ON N2L 3G1, Canada. &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;Corresponding Address:&lt;/b&gt;
+Zhao, XL (corresponding author), Shanghai Univ Engn Sci, Shanghai 201600, Peoples R China.&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+&lt;font _mstmutation=&quot;1&quot;&gt;&lt;b _mstmutation=&quot;1&quot;&gt;E-mail Addresses:&lt;/b&gt;
+ph@sues.edu.cn; zhaoxiaoli@sues.edu.cn; jiangych39@mail.sysu.edu.cn; lipeng.he@uwaterloo.ca; wbq@sues.edu.cn; syc@sues.edu.cn&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="论文" scheme="http://lab7402.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="联邦学习" scheme="http://lab7402.github.io/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>FedINER:Chinese Industrial Named Entity Recognition with Federated</title>
     <link href="http://lab7402.github.io/2025/07/08/FedINER/"/>
     <id>http://lab7402.github.io/2025/07/08/FedINER/</id>
     <published>2025-07-08T09:59:38.401Z</published>
-    <updated>2025-07-08T11:07:04.059Z</updated>
+    <updated>2025-08-28T08:24:39.616Z</updated>
     
     
     <summary type="html">&lt;table&gt;
@@ -190,7 +449,7 @@ bg@sues.edu.cn; zhaoxiaoli@sues.edu.cn; zilong_yin@163.com; ph@sues.edu.cn; 2212
     <link href="http://lab7402.github.io/2025/01/17/A%20survey%20of%20multimodal%20federated%20learning/"/>
     <id>http://lab7402.github.io/2025/01/17/A%20survey%20of%20multimodal%20federated%20learning/</id>
     <published>2025-01-17T07:20:58.711Z</published>
-    <updated>2025-01-17T07:38:05.098Z</updated>
+    <updated>2025-08-28T08:21:22.986Z</updated>
     
     
     <summary type="html">&lt;table&gt;
@@ -372,7 +631,7 @@ Shanghai University of Engineering Science; Donghua University; Sanda University
     <link href="http://lab7402.github.io/2025/01/17/Data%20heterogeneous%20federated%20learning%20algorithm%20for%20industrial%20entity%20extraction/"/>
     <id>http://lab7402.github.io/2025/01/17/Data%20heterogeneous%20federated%20learning%20algorithm%20for%20industrial%20entity%20extraction/</id>
     <published>2025-01-17T06:48:42.091Z</published>
-    <updated>2025-01-17T06:58:05.646Z</updated>
+    <updated>2025-08-28T08:23:18.811Z</updated>
     
     
     <summary type="html">&lt;table&gt;
@@ -465,7 +724,7 @@ Shanghai University of Engineering Science; Donghua University&lt;/td&gt;
     <link href="http://lab7402.github.io/2025/01/17/AFLNet%20Adversarial%20focal%20loss%20network%20for%20RGB-D%20salient%20object%20detection/"/>
     <id>http://lab7402.github.io/2025/01/17/AFLNet%20Adversarial%20focal%20loss%20network%20for%20RGB-D%20salient%20object%20detection/</id>
     <published>2025-01-17T06:36:16.674Z</published>
-    <updated>2025-01-17T07:01:01.967Z</updated>
+    <updated>2025-08-28T08:23:02.102Z</updated>
     
     
     <summary type="html">&lt;table&gt;
@@ -559,7 +818,7 @@ Shanghai University of Engineering Science; University of Washington; University
     <link href="http://lab7402.github.io/2025/01/17/Gradient-based%20adaptive%20particle%20swarm%20optimizer%20with%20improved%20extremal%20optimization/"/>
     <id>http://lab7402.github.io/2025/01/17/Gradient-based%20adaptive%20particle%20swarm%20optimizer%20with%20improved%20extremal%20optimization/</id>
     <published>2025-01-17T06:10:29.532Z</published>
-    <updated>2025-01-17T07:02:56.590Z</updated>
+    <updated>2025-08-28T08:22:47.054Z</updated>
     
     
     <summary type="html">&lt;table&gt;
@@ -736,7 +995,7 @@ evawhy@163.com&lt;/font&gt;&lt;/td&gt;
     <link href="http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/"/>
     <id>http://lab7402.github.io/2025/01/14/%E7%AE%80%E4%BB%8B/</id>
     <published>2025-01-14T06:06:17.096Z</published>
-    <updated>2025-01-17T04:39:31.795Z</updated>
+    <updated>2025-08-28T08:21:56.965Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;导师简介：&quot;&gt;&lt;a href=&quot;#导师简介：&quot; class=&quot;headerlink&quot; title=&quot;导师简介：&quot;&gt;&lt;/a&gt;导师简介：&lt;/h1&gt;&lt;div class=&quot;article&quot; frag=&quot;窗口3&quot; portletmode=&quot;simpleArticleAttri&quot;&gt;
